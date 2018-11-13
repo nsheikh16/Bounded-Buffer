@@ -1,0 +1,10 @@
+Producer #0, time =5, producing data item #1, item value=3
+Consumer #0, time =6, consuming data item with value=3
+Producer #0, time =11, producing data item #2, item value=6
+Consumer #0, time =12, consuming data item with value=6
+Producer #0, time =17, producing data item #3, item value=7
+Consumer #0, time =18, consuming data item with value=7
+Producer #0, time =23, producing data item #4, item value=5
+Consumer #0, time =24, consuming data item with value=5
+Producer #0, time =29, producing data item #5, item value=3
+Consumer #0, time =30, consuming data item with value=3
